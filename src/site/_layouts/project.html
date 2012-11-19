@@ -1,0 +1,26 @@
+{% include header.html %}
+
+{% capture source %}{% if page.source %}<a href="{{ page.source }}">Source</a>{%endif%}{% endcapture %}
+{% capture updated %}{% if page.updated %}Updated: {{ page.updated }}{%endif%}{% endcapture %}
+{% capture homepage %}{% if page.homepage %}| <a href="{{ page.homepage }}">Homepage</a>{%endif%}{% endcapture %}
+{% capture forum %}{% if page.forum %}| <a href="{{ page.forum }}">Forum</a>{%endif%}{% endcapture %}
+{% capture blog %}{% if page.blog %}| <a href="{{ page.blog }}">Blog</a>{%endif%}{% endcapture %}
+{% capture author_image %}{% if page.author_image %}<a href="{{ page.author }}"><img class="profilepic" width="32" height="32" src="{{ page.author_image}}"></a> {%endif%}{% endcapture %}
+{% capture author %}{% if page.author %} <a href="{{ page.author }}">+{{ page.author_name }}</a> {%else%}{{ page.author_name }}{%endif%}{% endcapture %}
+
+<h1>{{ page.title }}</h1>
+
+<p>By: 	{{ author_image }} {{ author }}
+</p>
+
+<p>{{ source }} {{ homepage }} {{ blog }} {{ forum }}</p>
+
+<article{% if page.has-permalinks %} class="has-permalinks"{% endif %}>
+<p>Added: {{ page.added }}<br/>{{ updated }}</p>
+
+<img src="{{ page.mainimage }}" class="screenshot">
+
+{{ content }}
+</article>
+
+{% include footer.html %}

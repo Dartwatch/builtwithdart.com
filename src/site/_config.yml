@@ -1,0 +1,9 @@
+safe: true
+auto: true
+server: true
+server_port: 8091
+source: .
+destination: ../appengine/static
+## markdown: kramdown
+pygments: true
+permalink: /perm/:year/:month/:day/:title.html

@@ -1,0 +1,71 @@
+html {
+       overflow-y: scroll;
+}
+
+.maincontent {
+     padding-top:50px;
+}
+
+footer {
+  background-color: #EEEEFF;
+  padding: 20px;
+}
+
+iframe.demo {
+	width:100%; 
+	height:1000px;
+	margin:auto;
+}
+
+img .profilepic {
+     border: 1px solid #777777; 
+     -moz-border-radius: 3px; 
+     -webkit-border-radius: 3px; 
+     -khtml-border-radius: 3px; 
+     border-radius: 3px; 
+     padding: 5px; 
+     margin: 5px;
+}
+
+article img
+{
+     width:200px; 
+     border: 1px solid #777777; 
+     -moz-border-radius: 8px; 
+     -webkit-border-radius: 8px; 
+     -khtml-border-radius: 8px; 
+     border-radius: 8px; 
+     padding: 5px; 
+     margin: 5px;
+
+     transition: 0.5s;  
+     -moz-transition: 0.5s; /* Firefox 4 */
+	 -webkit-transition: 0.5s; /* Safari and Chrome */
+	 -o-transition: 0.5s; /* Opera */
+
+	transition: 0.5s;  
+    -moz-transition: 0.5s; /* Firefox 4 */
+	-webkit-transition: 0.5s; /* Safari and Chrome */
+	-o-transition:  0.5s; /* Opera */
+}
+
+article img:hover  {
+	  margin: 5px;
+     width:500px; 
+	 max-width:80%;
+     border: 1px solid #777777; 
+     -moz-border-radius: 8px; 
+     -webkit-border-radius: 8px; 
+     -khtml-border-radius: 8px; 
+     border-radius: 8px; 
+     padding: 5px;    
+     transition: 2s;  
+     -moz-transition: 1s; /* Firefox 4 */
+	 -webkit-transition: 1s; /* Safari and Chrome */
+	 -o-transition: 1s; /* Opera */
+
+	transition: 1s;  
+    -moz-transition: 1s; /* Firefox 4 */
+	-webkit-transition: 1s; /* Safari and Chrome */
+	-o-transition:  1s; /* Opera */
+}
