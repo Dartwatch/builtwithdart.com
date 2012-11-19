@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "BuckshotUI"
+title: "Buckshot"
 download_url: https://github.com/prujohn/Buckshot
 author: https://plus.google.com/u/0/115427174005651655317
 added: 19/Nov/2012
@@ -17,7 +17,7 @@ mainimage: buckshot.png
 
 ### Author's Notes
 
-Buckshot is a UI Framework for modern web applications. It is written in Google Dart and attempts to model the best of .net WPF (Silverlight) and Adobe Flex, but without the need for a plug-in. Buckshot renders all output in HTML5/CSS3, and makes use of features available in today's modern web browsers.
+Buckshot is a multi-platform application framework. The library provides the foundations for other target platforms to build from. Some of the core features provided include a template parser, data-binding, events, actions, style templates, and more. Most developers will not import the core library directly, but will instead choose one of the platform extension libraries, such as HTML, SVG, and others. 
 
 If you've worked with .net WPF or Silverlight then this framework will feel very familiar to you.
 
