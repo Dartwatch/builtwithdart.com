@@ -22,7 +22,7 @@ to JavaScript.  While they _should_ work in all modern browsers, the Dart => Jav
 converter has been through some iterations since the early examples were built.  If you
  have problems running the examples, try using Chrome in the first instance.
 
-### Authors
+### Developers
  
 Most of the applications listed contain links to their source code - contact the developer for more information.  
 In most instances, I've tried to credit the developer, and prvide a Google+ link.  If you find your work on this site
@@ -34,3 +34,4 @@ and you are not credited correctly, then [contact](/contact/) me!
 If your app is Built With Dart, _tell us your story_.  We want to know about it.  Please use the [contact](/contact/) page
 in and send some screenshots and text about the site.  Even better, write up a code walkthrough.
 
+The [contact](/contact/) page has a contributors guide to help you get started.
