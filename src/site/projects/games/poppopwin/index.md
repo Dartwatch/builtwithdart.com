@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Pop, Pop, Win!'
-download_url: http://<Download URL for your project>
+download_url: https://github.com/dart-lang/pop-pop-win
 added: 20 Nov, 2012
 description: 'Pop, Pop, Win! is an implementation of Minesweeper in Dart.'
 author_name: Kevin Moore
@@ -12,3 +12,11 @@ author: https://plus.google.com/110066012384188006594
 source: https://github.com/dart-lang/pop-pop-win
 homepage: http://dart-lang.github.com/pop-pop-win/
 ---
+
+## Author's Notes
+
+Pop, Pop, Win! is an implementation of Minesweeper in Dart.
+
+## Demo
+
+[Launch Demo](http://dart-lang.github.com/pop-pop-win/)
