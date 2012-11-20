@@ -6,6 +6,7 @@ This website is built using a similar (but smaller) set of tools to the dartlang
 At the minimum, you will need [Jekyll](http://jekyllrb.com/), a ruby based static site generator.  
 
 To run the site locally:
+
 1. Check out the code from github
 2. Change into the `/src/site` folder
 3. Run jekyll from the command line
