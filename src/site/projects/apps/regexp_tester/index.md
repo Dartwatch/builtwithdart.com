@@ -7,6 +7,7 @@ added: 20/Nov/2012
 source: https://github.com/claudiodangelis/dart_regexp_tester
 homepage: http://claudiodangelis.github.com/dart_regexp_tester/
 author_name: Claudio Dawson d'Angelis
+author_image: https://profiles.google.com/s2/photos/profile/115859961800127275872
 mainimage: regexptester.png
 ---
 
@@ -24,5 +25,3 @@ It's very simple, I made it just to show how easy is creating working applicatio
 Both **RegExp Tester** application and source code are hosted on GitHub. 
 
 - [Launch Application](http://claudiodangelis.github.com/dart_regexp_tester/)
-
-- [Source Code](https://github.com/claudiodangelis/dart_regexp_tester)
