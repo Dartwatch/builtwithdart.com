@@ -1,0 +1,18 @@
+- title: Heroku
+  image: heroku.png
+  author: Heroku
+  url: heroku
+  short: heroku
+
+- title: Drone.IO
+  image: droneio.png
+  author: Drone IO
+  url: droneio
+  short: droneio
+
+- title: Github
+  image: github.png
+  author: GitHub
+  url: github
+  short: github
+

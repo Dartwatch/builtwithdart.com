@@ -1,23 +1,23 @@
 - title: TODO MVC
-  image: todomvc/todomvc.png
+  image: todomvc.png
   author: Mathieu Lorber
   url: todomvc
   short: todomvc
 
 - title: RGB Cube
-  image: rgbcube/rgbcube.png
+  image: rgbcube.png
   author: Damien Delwarde
   url: rgbcube
   short: rgbcube
 
 - title: QR Code Generator
-  image: qrcode/qrcode.png
+  image: qrcode.png
   author: Kevin Moore
   url: qrcode
   short: qrcode
 
 - title: QR Code Generator
-  image: regexp_tester/regexptester.png
+  image: regexptester.png
   author: Claudio Dawson d'Angelis
   url: regexp_tester
   short: regexp

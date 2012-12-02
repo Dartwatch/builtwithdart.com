@@ -3,7 +3,7 @@
 
 <style>
 .thumbnail {
-  position: relative;
+   position: relative;
 }
 .presentation-details {
   bottom: 58px;
@@ -19,7 +19,7 @@
   position: relative;
 }
 .thumbnail .screenshot {
-	width:150px;
+	width:200px;
 }
 </style>
 
@@ -36,7 +36,7 @@
   <li class="span6" id="{{ app.short }}">
     <div class="thumbnail">
     	<h4 class="title">{{ app.title }}</h4>
-      <img class="screenshot" src="{{ app.image }}">
+      <img class="screenshot" src="{{ app.url }}/{{ app.image }}">
       <div class="presentation-details">
         <div class="inner">
           
