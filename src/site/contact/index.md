@@ -27,7 +27,7 @@ what your pages look like.
 ### Creating a page for your project:
 
 1. Create a folder in the relevant `/projects` subfolder, eg: `/projects/apps/awesome/`
-2. Create an index.md file by copying the `/project/template.md` file, eg: `/projects/apps/awesome/index.md'
+2. Create an index.md file by copying the `/project/template.md` file, eg: `/projects/apps/awesome/index.md`
 3. Edit the `_includes/header.html` file to add a link to your project on the menu, eg:  `<li><a href="/projects/apps/awesome/">RGB Cube</a></li>`
 4. Add some screenshots or other images into your project's folder, eg: `/projects/apps/awesome/myapp.png`
 5. Fill in the various fields in your `index.md` and add some text

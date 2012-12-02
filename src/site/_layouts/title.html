@@ -1,0 +1,57 @@
+{% include header.html %}
+
+
+<style>
+.thumbnail {
+  position: relative;
+}
+.presentation-details {
+  bottom: 58px;
+  left: 0px;
+  width: 100%;
+  background: #C0C0C0;
+}
+.inner {
+  padding: 15px;
+}
+.thumbnail .buttons {
+  margin-top: 15px;
+  position: relative;
+}
+.thumbnail .screenshot {
+	width:150px;
+}
+</style>
+
+   
+<h1>{{ page.title }}</h1>
+
+<p>
+{{ page.description }}
+</p>
+
+
+<ul class="thumbnails">
+  {% for app in page.apps %}
+  <li class="span6" id="{{ app.short }}">
+    <div class="thumbnail">
+    	<h4 class="title">{{ app.title }}</h4>
+      <img class="screenshot" src="{{ app.image }}">
+      <div class="presentation-details">
+        <div class="inner">
+          
+          <p>
+            by {{ app.author }}
+          </p>
+          <p class="buttons">        
+        	<a href="{{ app.url }}" class="btn btn-primary">View Details</a>        
+      	  </p>
+        </div>
+      </div>
+      
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+
+{% include footer.html %}
