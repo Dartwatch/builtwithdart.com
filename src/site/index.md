@@ -50,4 +50,4 @@ Effectively, all the above represents turning this site into a Dart powered wiki
 
 There are two sides to this (client and server), and many of the parts aren't there yet.  My current plan is to bootstrap the server side stuff using Google's appengine talking to a Dart-powered client.  Once the client is working, then it's over to implement the server side - from the httpserver onwards...
 
-Follow the progress at [http://blog.builtwithdart.com](http://blog.builtwithdart.com), and see the work-in-progress at [http://beta.builtwithdart.com](http://beta.builtwithdart.com).
+Follow the progress at [http://blog.builtwithdart.com](http://blog.builtwithdart.com), and see the work-in-progress at [http://beta.builtwithdart.com](http://beta.builtwithdart.com). (both coming soon...)

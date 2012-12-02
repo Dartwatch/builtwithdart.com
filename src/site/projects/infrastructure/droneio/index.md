@@ -20,6 +20,6 @@ Hosted continuous build for Dart projects, including those hosted on github.
 
 ### Real world projects hosted on drone.io:
 
-- [https://github.com/dart-lang/pop-pop-win](dart-lang/pop-pop-win)
-- [https://github.com/dart-lang/pop-pop-win](dart-lang/dart-web-components)
-- [https://drone.io/kevmoo/bot.dart/script/config](kevmoo/bot.dart)
+* [https://github.com/dart-lang/pop-pop-win](dart-lang/pop-pop-win)
+* [https://github.com/dart-lang/pop-pop-win](dart-lang/dart-web-components)
+* [https://drone.io/kevmoo/bot.dart/script/config](kevmoo/bot.dart)

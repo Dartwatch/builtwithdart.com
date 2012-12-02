@@ -20,5 +20,7 @@ Heroku is hosted, cloud based infrastructure for your project, and it supports d
 
 ### Find out more:
 
-- [http://blog.sethladd.com/2012/08/running-dart-in-cloud-with-heroku.html](Read Seth Ladd's blog post) on how to get up and running with Heroku
-- [https://github.com/igrigorik/heroku-buildpack-dart](heroku backpack project)
+* [http://blog.sethladd.com/2012/08/running-dart-in-cloud-with-heroku.html](Read Seth Ladds blog post) on how to get up and running with Heroku
+* [http://github.com/igrigorik/heroku-buildpack-dart](heroku backpack project)
+
+
