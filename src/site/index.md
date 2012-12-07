@@ -9,8 +9,8 @@ title: "main"
 <h4>Newly Added </h4>
 <p>(7th Dec 2012)</p>
 <ul>
-	<li><a href="/projects/frameworks/bot">Dart Bag of Tricks</a></li>
-	<li><a href="/projects/frameworks/three">Three.dart</a></li>
+	<li><a href="/projects/frameworks/bot/">Dart Bag of Tricks</a></li>
+	<li><a href="/projects/frameworks/three/">Three.dart</a></li>
 </ul>
 </div>
 
