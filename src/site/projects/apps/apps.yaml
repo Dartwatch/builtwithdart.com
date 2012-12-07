@@ -16,7 +16,7 @@
   url: qrcode
   short: qrcode
 
-- title: QR Code Generator
+- title: Reg Exp Tester
   image: regexptester.png
   author: Claudio Dawson d'Angelis
   url: regexp_tester
