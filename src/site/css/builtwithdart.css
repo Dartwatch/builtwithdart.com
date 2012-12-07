@@ -69,3 +69,17 @@ article img:hover  {
 	-webkit-transition: 1s; /* Safari and Chrome */
 	-o-transition:  1s; /* Opera */
 }
+
+#new-items {
+    float:right; 
+    width: 125px; 
+    border: 1px solid aqua;
+    
+    padding: 7px;
+    margin: 7px;  
+
+         -moz-border-radius: 8px; 
+     -webkit-border-radius: 8px; 
+     -khtml-border-radius: 8px; 
+     border-radius: 8px;   
+}
