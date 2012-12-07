@@ -45,7 +45,7 @@ This site is not built with Dart - that's the next step...  follow the progress 
   - Moderate submitted content (again, instead of using github)
   - In-browser editing of content (because it's handy to modify typos)
 
-<img src="img/builtwithdart-logo.png" style="float:right"/>  
+<img src="img/builtwithdart2.png" style="float:right"/>  
 Effectively, all the above represents turning this site into a Dart powered wiki...!
 
 There are two sides to this (client and server), and many of the parts aren't there yet.  My current plan is to bootstrap the server side stuff using Google's appengine talking to a Dart-powered client.  Once the client is working, then it's over to implement the server side - from the httpserver onwards...
