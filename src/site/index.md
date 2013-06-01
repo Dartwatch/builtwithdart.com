@@ -7,7 +7,15 @@ title: "main"
 
 <div  id="new-items">
 <h4>Newly Added </h4>
-<p>(7th Dec 2012)</p>
+<p>23rd Dec 2012</p>
+<ul>
+	 <li><a href="/projects/games/evillair/">Evil Lair</a></li>
+</ul>
+<p>9th Dec 2012</p>
+<ul>
+	<li><a href="/projects/frameworks/collision_clones/">Collision Clones</a></li>
+</ul>
+<p>7th Dec 2012</p>
 <ul>
 	<li><a href="/projects/frameworks/bot/">Dart Bag of Tricks</a></li>
 	<li><a href="/projects/frameworks/three/">Three.dart</a></li>

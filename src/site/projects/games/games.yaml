@@ -1,3 +1,9 @@
+- title: Evil Lair
+  image: evillair.png
+  author: Joel Davis
+  url: evillair
+  short: evillair
+
 - title: Dartan
   image: dartan.png
   author: Ruud Poutsma
@@ -15,6 +21,12 @@
   author: Bernhard Pichler
   url: dartescape
   short: dartescape
+
+- title: Collision Clones
+  image: collision_clones.png
+  author: Dzenan Ridjanovic
+  url: collision_clones
+  short: collision_clones
 
 - title: Keyboard Warrior
   image: keyboard_warrior.png
