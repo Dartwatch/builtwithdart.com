@@ -9,7 +9,7 @@ title: "main"
 <h4>Newly Added </h4>
 <ul>
   <li><a href="/projects/games/evillair/">Evil Lair</a></li>
-	<li><a href="/projects/frameworks/collision_clones/">Collision Clones</a></li>
+	<li><a href="/projects/games/collision_clones/">Collision Clones</a></li>
 	<li><a href="/projects/frameworks/bot/">Dart Bag of Tricks</a></li>
 	<li><a href="/projects/frameworks/three/">Three.dart</a></li>
 </ul>
